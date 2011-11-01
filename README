@@ -1,0 +1,22 @@
+Usage:
+
+1) Put the shows you like to watch in ep.rc 
+
+2) Then run eplists.sh from a shell, it will create the file latest.html and open it with lynx, a shell-based browser
+
+--
+Notes:
+- ep.py was not written by me, only slightly modified.
+- eplists.sh is one way to look at this data. feel free to write other wrappers, this is what I found useful
+
+---
+ep.py - a command line client for epguides.com
+
+Version 0.1b - (2011-01-02)
+
+licensed under GLP3 (because I have terminal RMS)
+see http://www.gnu.org/licenses/gpl-3.0.txt
+
+(c) Jaroslaw Szpilewski 2011
+http://nntp.pl
+
